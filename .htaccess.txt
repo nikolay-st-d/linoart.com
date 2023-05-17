@@ -1,0 +1,13 @@
+ErrorDocument 404 https://www.linoart.com/404.php
+
+RewriteEngine on
+RewriteBase /
+
+# This rule will redirect users from their original location, to the same location but using HTTPS.
+//RewriteCond %{HTTPS} !=on
+//RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+RewriteCond %{HTTP_HOST} ^(?!www\.)(.+) [NC]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*) https://www.%1/$1 [R=301,NE,L]
