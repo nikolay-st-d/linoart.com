@@ -1,5 +1,5 @@
 # linoart.com
-## Lnoart Ltd. website
+#### Linoart Ltd. website
 
 _The goal was to make a minimalistic mobile-friendly website with lot of white spaces and sense of freedom amd fresh air._
 
