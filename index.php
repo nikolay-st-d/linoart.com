@@ -17,7 +17,7 @@ echo '</div">';
 		<div class="main_left">
 			<h1>LINOART Ltd.</h1>
 			<h2>OFFICIAL COMPANY WEBSITE</h2>
-			<p>We are a small Bulgarian company, specializing in on-line trading. We do also work on projects related to graphic design, photography, web design and marketing services.</p>
+			<p>We are a small Bulgarian company, specializing in web development, graphic design and commercial photography. We also work on projects related to online sales, marketing services and project management.</p>
 		</div>
 		<div class="main_right">
 			<img src="images/top_1.jpg" alt="Linoart Ltd." title="Trading company based in Bulgaria" />
