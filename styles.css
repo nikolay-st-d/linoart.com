@@ -124,7 +124,7 @@ h3 {
 	text-align: center;
 }
 
-@media (min-width: 960px) {
+@media (min-width: 1200px) {
 	.main_left {
 		width: 35%;
 		height: 100%;
