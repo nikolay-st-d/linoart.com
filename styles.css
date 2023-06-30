@@ -108,7 +108,7 @@ h3 {
 		margin-left: auto;
 		margin-right: auto;
 		padding: 0px;
-		padding-top: 160px;
+		padding-top: 120px;
 		position: relative;
 	}
 }
@@ -126,11 +126,11 @@ h3 {
 
 @media (min-width: 960px) {
 	.main_left {
-		width: 30%;
+		width: 35%;
 		height: 100%;
 	}
 	.main_right {
-		width: 70%;
+		width: 65%;
 		height: 100%;
 		text-align: right;
 		vertical-align: text-bottom;
@@ -160,7 +160,7 @@ h3 {
 @media (min-width: 1200px) {
 	.header_container {
 		width: 1200px;
-		height: 160px;
+		height: 220px;
 		margin-left: auto;
 		margin-right: auto;
 	}
