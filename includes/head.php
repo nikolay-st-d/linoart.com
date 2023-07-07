@@ -16,7 +16,6 @@ $actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 <meta http-equiv="content-language" content="en">
 <meta name="google-site-verification" content="KgfAL9DcluKeWDwEc_65_rPc7ONYsE8g98YR041YJ7U" />
 <link rel="shortcut icon" href="favicon.ico" />
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,800&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
