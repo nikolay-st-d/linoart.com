@@ -15,7 +15,7 @@ echo '</div">';
 <div class="container">
 	<div class="main">
 		<div class="main_left">
-			<h1>COMPANY PROFILE</h1>
+			<h1>Company Profile</h1>
 			<h2>LINOART Ltd.</h2>
 			<p>Linoart Ltd. was founded in 2005 in the city of Sliven, South-East Bulgaria, as a graphic design and commercial photography studio.</p>
 			<p>The company was registered with capital of 5000 BGN, that equals 2500 EUR (the minimum capital required by the law is 1 EUR).</p>

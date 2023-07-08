@@ -15,7 +15,7 @@ echo '</div">';
 <div class="container">
 	<div class="main">
 		<div class="main_left">
-			<h1>CONTACT US</h1>
+			<h1>Contact Us</h1>
 			<h2>LINOART Ltd.</h2>
 			<p>Company e-mail address:</p>
 			<p><img src="images/m.png" alt="graphic design and advertising photography studio" /></p>

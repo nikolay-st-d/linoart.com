@@ -15,7 +15,7 @@ echo '</div">';
 <div class="container">
 	<div class="main">
 		<div class="main_left">
-			<h1>LINOART Ltd.</h1>
+			<h1>Linoart Ltd.</h1>
 			<h2>OFFICIAL COMPANY WEBSITE</h2>
 			<p>We are a small Bulgarian company, specializing in web development, graphic design and commercial photography. We also work on projects related to online sales, marketing services and project management.</p>
 		</div>
