@@ -1,8 +1,24 @@
 @font-face {
-    font-family: 'Cairo';
-    src: url('fonts/Cairo-Regular.woff2') format('woff2'),
-        url('fonts/Cairo-Regular.woff') format('woff');
+    font-family: 'BenguiatGothic';
+    src: url('fonts/BenguiatGothic-Heavy.woff2') format('woff2'),
+        url('fonts/BenguiatGothic-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BenguiatGothic';
+    src: url('fonts/BenguiatGothic-Book.woff2') format('woff2'),
+        url('fonts/BenguiatGothic-Book.woff') format('woff');
     font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BenguiatGothic';
+    src: url('fonts/BenguiatGothic-Bold.woff2') format('woff2'),
+        url('fonts/BenguiatGothic-Bold.woff') format('woff');
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
@@ -11,7 +27,7 @@ body {
 	margin: 0px;
 	}
 .container {
-	font-family: Cairo, Verdana, sans-serif;
+	font-family: BenguiatGothic, Verdana, sans-serif;
 	width: 100%;
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -47,6 +63,7 @@ h3 {
 	background-color: #000000;
 	font-weight: 400;
 	font-size: 18px;
+	line-height: 1.8em;
 	color: #bba395;
 	text-align: center;
 	}
@@ -134,7 +151,7 @@ h3 {
 		height: 100%;
 	}
 	.main_right {
-		width: 65%;
+		width: 60%;
 		height: 100%;
 		text-align: right;
 		vertical-align: text-bottom;
